@@ -3,5 +3,5 @@
 • Acknowledge that some terms tend to be used interchangeably, however, their differences should be highlighted. Also, show that it is possible to associate keywords with different processes. Ex: phonon propogation = associated with sound waves or crystal lattice vibrations.
 • In math-related work, preferring the use of "out of" instead of "over" when talking about fractions or numerator(s)/denominator(s). Usage of "something" out of one unit of some denominator or group of denominators.
 • Provision of immediate examples.
-• Attributing descriptors or adjective as a pre-term before the actual use of a word. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
+• Attributing descriptors or adjectives as pre-terms before the actual use of a word. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
 • A new discovery tends to show its face beginning with the phrase "unless...".
