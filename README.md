@@ -13,6 +13,6 @@ ________________________________________________________________________________
 
 • Provision of immediate examples.
 
-• Attributing descriptors or adjective as a pre-term before the actual use of a word. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
+• Attributing descriptors or adjectives as pre-terms before the actual use of a word. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
 
 • A new discovery tends to show its face beginning with the phrase "unless...".
