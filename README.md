@@ -1,5 +1,5 @@
 # Linguistics-of-Science
-Unspoken requirements for communicating in the sciences. This list of criteria has been compiled over a number of years by Onri Jay Benally on a private cloud database. The inspiration for this public repository comes from the use of a platform called Google Keep (https://keep.google.com). 
+Unspoken requirements for communicating in the sciences. This list of criteria has been compiled over a number of years by Onri Jay Benally on a private cloud database. The inspiration for this public repository comes from the use of a platform called Google Keep (https://keep.google.com), where ideas and thoughts are recorded. 
 _________________________________________________________________________________________________________________________________________________________________________
 It is similar to the use of Google Docs or Google Sheets in that you can find it on the upper right corner of the Google homepage.  
 _________________________________________________________________________________________________________________________________________________________________________
