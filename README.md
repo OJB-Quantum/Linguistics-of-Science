@@ -17,4 +17,6 @@ ________________________________________________________________________________
 
 • A new discovery tends to show its face beginning with the phrase "unless...".
 
-• "Much less information is, however, available on..."
+• "Much less information is, however, available on..." can be used to express acknowledgement of limited information about a topic or sub-tropic.
+
+• When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown.
