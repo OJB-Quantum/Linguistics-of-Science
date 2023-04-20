@@ -20,3 +20,5 @@ ________________________________________________________________________________
 • "Much less information is, however, available on..." can be used to express acknowledgement of limited information about a topic or sub-tropic.
 
 • When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown.
+
+• Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvangeous.
