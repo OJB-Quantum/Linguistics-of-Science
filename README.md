@@ -3,7 +3,7 @@ Unspoken requirements for communicating in the sciences. This list of criteria h
 _________________________________________________________________________________________________________________________________________________________________________
 It is similar to the use of Google Docs or Google Sheets in that you can find it on the upper right corner of the Google homepage.  
 _________________________________________________________________________________________________________________________________________________________________________
-• All about the use of independent sentences (phrases), analogies, adjectives, and even metaphors.
+• All about the use of independent sentences (phrases), analogies, adjectives, verbs that provide the adjectival functionality, and even metaphors.
 
 • No fear of repeating the explanation in more ways than one.
 
