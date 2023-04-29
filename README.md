@@ -22,3 +22,5 @@ ________________________________________________________________________________
 • When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown.
 
 • Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvangeous.
+
+• In the quest to understand (...), what is the upper limit of (...) & what is its lower limit. Bandwidth can be used here, not neccessrily in the context of electronics, but it can be abstract.
