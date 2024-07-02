@@ -3,25 +3,15 @@ Unspoken requirements for communicating in the sciences. This list of criteria h
 _________________________________________________________________________________________________________________________________________________________________________
 It is similar to the use of Google Docs or Google Sheets in that you can find it on the upper right corner of the Google homepage.  
 _________________________________________________________________________________________________________________________________________________________________________
-• All about the use of independent sentences (phrases), analogies, adjectives, verbs that provide the adjectival functionality, and even metaphors.
-
-• No fear of repeating the explanation in more ways than one.
-
-• Acknowledge that some terms tend to be used interchangeably, however, their differences should be highlighted. Also, show that it is possible to associate keywords with different processes. Ex: phonon propogation = associated with sound waves or crystal lattice vibrations.
-
-• In math-related work, preferring the use of "out of" instead of "over" when talking about fractions or numerator(s)/denominator(s). Usage of "something" out of one unit of some denominator or group of denominators.
-
-• Provision of immediate examples.
-
-• Attributing descriptors or adjectives as pre-terms before the actual use of a word. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
-
-• A new discovery tends to show its face beginning with the phrase "unless...".
-
-• "Much less information is, however, available on..." can be used to express acknowledgement of limited information about a topic or sub-tropic. Other variations include "a limited amount of (...) solutions has been demonstrated" and "the lowest reported (...) for (...) has been demonstrated".
-
-
-• When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown.
-
-• Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvangeous.
-
-• In the quest to understand (...), what is the upper limit of (...) & what is its lower limit. Bandwidth can be used here, not neccessrily in the context of electronics, but it can be abstract.
+|  |
+| - |
+| • All about the use of independent sentences (phrases), analogies, adjectives, verbs that provide the adjectival functionality, and even metaphors. |
+| • No fear of repeating the explanation in more ways than one. |
+| • In math-related work, preferring the use of "out of" instead of "over" when talking about fractions or numerator(s)/denominator(s). Usage of "something" out of one unit of some denominator or group of denominators. |
+| • Provision of immediate examples. |
+| • Attributing descriptors or adjectives as pre-terms before the actual use of a word. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
+| • A new discovery tends to show its face beginning with the phrase "unless...". |
+| • "Much less information is, however, available on..." can be used to express acknowledgement of limited information about a topic or sub-tropic. Other variations include "a limited amount of (...) solutions has been demonstrated" and "the lowest reported (...) for (...) has been demonstrated". |
+| • When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown. |
+| • Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvangeous. |
+| • In the quest to understand (...), what is the upper limit of (...) & what is its lower limit. Bandwidth can be used here, not neccessrily in the context of electronics, but it can be abstract. |
