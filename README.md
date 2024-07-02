@@ -14,4 +14,4 @@ ________________________________________________________________________________
 | • "Much less information is, however, available on..." can be used to express acknowledgement of limited information about a topic or sub-tropic. Other variations include "a limited amount of (__) solutions has been demonstrated" and "the lowest reported (__) for (__) has been demonstrated". |
 | • When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown. |
 | • Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvangeous. |
-| • In the quest to understand (__), what is the upper limit of (...) & what is its lower limit. Bandwidth can be used here, not neccessrily in the context of electronics, but it can be abstract. |
+| • In the quest to understand (__), what is the upper limit of (__) & what is its lower limit. Bandwidth can be used here, not neccessrily in the context of electronics, but it can be abstract. |
