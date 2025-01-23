@@ -15,6 +15,6 @@ ________________________________________________________________________________
 | • A new discovery tends to show its face beginning with the phrase "unless...". |
 | • "Much less information is, however, available on..." can be used to express acknowledgement of limited information about a topic or sub-tropic. Other variations include "a limited amount of (...) solutions has been demonstrated" and "the lowest reported (...) for (...) has been demonstrated". |
 | • When displaying images of objects, be sure to draw a scale bar using a reference of known distances near the object(s) being shown. |
-| • Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvangeous. |
-| • In the quest to understand (...), what is the upper limit of (...) & what is its lower limit? Bandwidth can be used here, not neccessrily in the context of electronics, but it can be abstract. |
+| • Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvantageous. |
+| • In the quest to understand (...), what is the upper limit of (...) & what is its lower limit? Bandwidth can be used here, not neccessarily in the context of electronics, but it can be abstract. |
 | • Consider the axiomatic method, followed by first principles, followed by the empirical method. |
