@@ -1,8 +1,12 @@
 # Linguistics-of-Science
 Unspoken requirements for communicating in the sciences. This list of criteria has been compiled over a number of years by Onri Jay Benally on a private cloud database. The inspiration for this public repository comes from the use of a platform called Google Keep (https://keep.google.com), where ideas and thoughts are recorded. 
-_________________________________________________________________________________________________________________________________________________________________________
+
+--- 
+
 It is similar to the use of Google Docs or Google Sheets in that you can find it on the upper right corner of the Google homepage.  
-_________________________________________________________________________________________________________________________________________________________________________
+
+--- 
+
 |  |
 | - |
 | • All about the use of independent sentences (phrases), analogies, adjectives, verbs that provide the adjectival functionality, and even metaphors. |
@@ -18,3 +22,18 @@ ________________________________________________________________________________
 | • Providing clarity by stating why something is important: "this" = advantageous vs. "that" = disadvantageous. |
 | • In the quest to understand (...), what is the upper limit of (...) & what is its lower limit? Bandwidth can be used here, not neccessarily in the context of electronics, but it can be abstract. |
 | • Consider the axiomatic method, followed by first principles, followed by the empirical method. |
+
+### Keywords & Terms To Look for When Reading a Technical Quantum-Related Article: 
+
+| **Category**                  | **Keywords & Terms**                                       |
+|--------------------------------|----------------------------------------------------------|
+| **Quantum System Dynamics**    | Drive, Excite, Qubit, Resonance, Coherence, Transition, State Transition |
+| **Measurement & Readout**      | Readout, read out, read-out, Dependent, Reference, Convert, Converter, ADC, DAC |
+| **Signal Processing & Control** | Modulate, Pulse, Formulated |
+| **Quantum States & Behavior**  | Ground, Flying, Static, Stationary, State Classification |
+| **Fabrication & Manufacturing** | Fabrication, Manufacture, Foundry |
+| **Clarity & Verification**     | Clear, Correct |
+| **Quantum Interactions**       | Couple, Entangle |
+| **Logical & Structural Concepts** | Prerequisite, Implement, Implemented, Implementation, Integrated |
+| **Analysis & Justification**   | Compare, Compared, Justification, Justified, Motivation |
+
