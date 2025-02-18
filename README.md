@@ -37,3 +37,13 @@ It is similar to the use of Google Docs or Google Sheets in that you can find it
 | **Logical & Structural Concepts** | Prerequisite, Implement, Implemented, Implementation, Integrated |
 | **Analysis & Justification**   | Compare, Compared, Justification, Justified, Motivation |
 
+### Keywords & Terms To Look For When Reading About Thin Film Materials: 
+
+| **Category**                  | **Keywords & Terms**                                      |
+|--------------------------------|---------------------------------------------------------|
+| **Material Properties & Characteristics** | Texture, Composition, Profile, Peak, Surface, Growth, Crystal, Interface, Rough, Amorphous, Microstructure |
+| **Processing & Fabrication**  | Substrate, Layer, Deposit, Anneal, Temperature, Pressure, Torr, Film, Stack, Barrier, Seed, Phase, Wafer |
+| **Performance & Evaluation**  | Performance, Dependent, Reference, Identify, Identified, Reduce, Increase, Improve, Resist, Resistivity, Mechanism |
+| **Analysis & Measurement**    | Contact, Scan, Ratio, Diffuse, Diffusion, Compare, Lower, Form, Prepare, Configuration |
+| **Reliability & Outcome**     | Fail, Success, Agreement, Trajectory, Self, Overall, Found, Report, Subsequent |
+| **Application & Use Cases**   | Application, Control, Focus, Better, Interested, Interesting, Insert, Integrate |
