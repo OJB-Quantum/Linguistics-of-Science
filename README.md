@@ -33,7 +33,7 @@ It is similar to the use of Google Docs or Google Sheets in that you can find it
 | **Quantum States & Behavior**  | Ground, Flying, Static, Stationary, State Classification |
 | **Fabrication & Manufacturing** | Fabrication, Manufacture, Foundry |
 | **Clarity & Verification**     | Clear, Correct |
-| **Quantum Interactions**       | Couple, Entangle |
+| **Quantum Interactions**       | Couple, Coupling, Entangle |
 | **Logical & Structural Concepts** | Prerequisite, Implement, Implemented, Implementation, Integrated |
 | **Analysis & Justification**   | Compare, Compared, Justification, Justified, Motivation |
 
