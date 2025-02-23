@@ -31,7 +31,7 @@ It is similar to the use of Google Docs or Google Sheets in that you can find it
 | **Measurement & Readout**      | Readout, Read Out, Read-out, Dependent, Reference, Convert, Converter, ADC, DAC |
 | **Signal Processing & Control** | Modulate, Pulse, Formulated |
 | **Quantum States & Behavior**  | Ground, Flying, Static, Stationary, State Classification |
-| **Fabrication & Manufacturing** | Fabrication, Manufacture, Foundry |
+| **Fabrication & Manufacturing** | Fabrication, Yield, Manufacture, Foundry |
 | **Clarity & Verification**     | Clear, Correct |
 | **Quantum Interactions**       | Couple, Coupling, Entangle |
 | **Logical & Structural Concepts** | Prerequisite, Implement, Implemented, Implementation, Integrated |
