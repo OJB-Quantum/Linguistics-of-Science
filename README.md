@@ -29,7 +29,7 @@ It is similar to the use of Google Docs or Google Sheets in that you can find it
 |--------------------------------|----------------------------------------------------------|
 | **Quantum System Dynamics**    | Drive, Excite, Qubit, Resonance, Coherence, Transition, State Transition, Rabi Frequency, Rabi Osciilation |
 | **Measurement & Readout**      | Readout, Read Out, Read-out, Dependent, Reference, Convert, Converter, ADC, DAC |
-| **Signal Processing & Control** | Modulate, Pulse, Formulated |
+| **Signal Processing & Control** | Modulate, Pulse, Formulated, Power, Port |
 | **Quantum States & Behavior**  | Ground, Flying, Static, Stationary, State Classification |
 | **Fabrication & Manufacturing** | Fabrication, Yield, Manufacture, Foundry |
 | **Clarity & Verification**     | Clear, Correct |
